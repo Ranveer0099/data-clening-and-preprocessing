@@ -25,5 +25,3 @@ This README file accompanies the PDF guide **Data_Cleaning_Guide_Full_Answers.pd
 ## Usage
 Use this PDF as a reference when preparing datasets for analysis or modeling. Itâs also suitable as preparation for data-related interviews.
 
-## Author
-Generated using OpenAI's GPT model with PDF export and formatting automation.
